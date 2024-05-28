@@ -1,0 +1,33 @@
+{
+  "bot": {
+    "prefix": "!",
+    "id": "xxx",
+    "footer": "Hermosa Payments",
+    "ready": "Hermosa Payments | www.hermosa-pay.xyz",
+    "footer_img": "",
+    "secret": "xxxxxxxxx-b2",
+    "token": "xxxxxxx"
+  },
+  "dashboard": {
+    "sunucu_id": "990201272021954611",
+    "port": 80,
+    "url": "https://hermosa-pay.xyz",
+    "callback": "https://hermosa-pay.xyz/auth/discord/redirect",
+    "owners": ["OWNERS"],
+      "arc": {
+        "enabled": "false",
+        "code": ""
+      }
+  },
+  "odeme":{
+	 "shipy": "xxxxxxx"
+	},
+  "mongodb_hesaplar": "bos",
+  "discord": "https://discord.gg/k9TsetbYEg",
+  "insta": "https://www.instagram.com/by.can.i/",
+  "youtube": "https://www.youtube.com/channel/UCA84sPbz5IMzt1iYKakYaMQ",
+  "github": "https://github.com/fastuptime",
+  "sponsor": "https://discord.com/users/445142958447263747",
+  "buy": "https://discord.com/users/445142958447263747",
+  "pricing": "https://free.fastuptime.com/#pricing"
+}
